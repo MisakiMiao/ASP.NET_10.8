@@ -73,6 +73,8 @@
     </Content>
     <Content Include="App_Data\curriculum.accdb" />
     <Content Include="Global.asax" />
+    <Content Include="images\gg.jpg" />
+    <Content Include="images\logo.png" />
     <Content Include="Web.config" />
     <Content Include="Default.aspx" />
     <Content Include="CurriCulum.aspx" />
